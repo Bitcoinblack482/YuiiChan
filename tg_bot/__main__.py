@@ -52,7 +52,7 @@ from tg_bot.modules.language import gs
 
 PM_START_TEXT = """
 Hi {}, my name is {}!
-I am an Anime themed group management bot with some fun extras [;)](https://telegra.ph/file/095d7e696096e21b06447.jpg)
+Welcome [;)](https://telegra.ph/file/e2f333d23d84383d601dd.jpg)
 
 You can find the list of available commands with /help.
 """
@@ -60,7 +60,7 @@ You can find the list of available commands with /help.
 HELP_STRINGS = """
 Hey there! My name is *{}*.
 I'll be at your service take a look below to know how to use me.
-If you have any questions on how to use me, head over to @YuiiChanSupport
+If you have any questions on how to use me, head over to https://t.me/doragonland
 *Main* commands available:
  • /start: start the bot
  • /help: PM's you this message.
@@ -77,7 +77,7 @@ And the following:
 )
 
 
-Yuii_IMG = "https://telegra.ph/file/145c818a6b4e5bc92765d.jpg"
+Yuii_IMG = "https://telegra.ph/file/e2f333d23d84383d601dd.jpg"
 
 
 IMPORTED = {}
